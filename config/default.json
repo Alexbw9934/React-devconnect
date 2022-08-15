@@ -1,0 +1,5 @@
+{
+    "mondgoURI":"mongodb+srv://amjad1:amjad1809@cluster0.8qg8k.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken",
+    "githubToken": "ghp_16C7e42F292c6912E7710c838347Ae178B4a"
+}
